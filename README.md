@@ -30,9 +30,7 @@ SenseAct provides an interface to interact with these robots.
 
 - For the Dynamixel Servo motor, we perform the Reacher task. In this, the motor learns to move the joint to a desired position (angle).
 - We implement our own 'minimal' PPO algorithm (policy-gradient RL algorithm) for the Reacher task on the Dynamixel. This minimal PPO algorithm is derived from the base REINFORCE algorithm. The derivation and the pseudocode are given in this PDF file [](pdf/pseudocodePPO.pdf)
-
-
-We also implement a PID controller for the Dynamixel Servo motor.
+- We also implement a PID controller for the Dynamixel Servo motor.
 
 ## Installation instructions:
 
