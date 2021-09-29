@@ -21,7 +21,7 @@ SenseAct provides an interface to interact with these robots.
 
 
 ### Dynamixel (DXL) actuators:
-Currently we only support MX-64AT.
+
 - [DXL-Reacher](https://github.com/kindredresearch/SenseAct/blob/master/senseact/envs/dxl/dxl_reacher_env.py)
 - [DXL-Tracker](https://github.com/kindredresearch/SenseAct/blob/master/senseact/envs/dxl/dxl_tracker_env.py)
 
