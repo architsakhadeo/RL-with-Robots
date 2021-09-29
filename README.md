@@ -2,8 +2,8 @@
 
 The code in this repository heavily uses on the SenseAct framework https://github.com/kindredresearch/SenseAct.
 
-We conduct experiments with two robots:
-    1) Create2 Roomba robot,
+We conduct experiments with two robots:<br>
+    1) Create2 Roomba robot,<br>
     2) Dynamixel Servo motor.
 
 SenseAct provides an interface to interact with these robots.
