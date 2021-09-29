@@ -16,7 +16,7 @@ SenseAct provides an interface to interact with these robots.
 | ![Create-Mover](docs/create-mover-ppo.gif) <br />Create-Mover | ![Create-Docker](docs/create-docker-trpo.gif) <br /> Create-Docker |
 | --- | --- |
 
-- For the Create2 Roomba robot, we perform the Docker task. In this the robot learns from scratch to dock to its charging station.
+- For the Create2 Roomba robot, we perform the Docker task. In this, the robot learns from scratch to dock to its charging station.
 - We use the PPO algorithm (policy-gradient RL algorithm) from OpenAI's repository https://github.com/openai/baselines
 
 
