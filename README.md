@@ -1,6 +1,6 @@
 # Reinforcement Learning with Robots
 
-The code in this repository heavily uses on the SenseAct framework https://github.com/kindredresearch/SenseAct.
+The code in this repository heavily uses the SenseAct framework https://github.com/kindredresearch/SenseAct.
 
 ## Installation instructions:
 
