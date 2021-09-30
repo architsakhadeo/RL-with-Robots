@@ -2,6 +2,12 @@
 
 The code in this repository heavily uses on the SenseAct framework https://github.com/kindredresearch/SenseAct.
 
+## Installation instructions:
+
+Please follow the installation instructions for SenseAct as specified in https://github.com/kindredresearch/SenseAct.
+
+## Description
+
 We conduct experiments with two robots:<br>
     1) Create2 Roomba robot,<br>
     2) Dynamixel Servo motor.
@@ -31,10 +37,6 @@ SenseAct provides an interface to interact with these robots.
 - For the Dynamixel Servo motor, we perform the Reacher task. In this, the motor learns to move the joint to a desired position (angle).
 - We implement our own 'minimal' PPO algorithm (policy-gradient RL algorithm) for the Reacher task on the Dynamixel. This minimal PPO algorithm is derived from the base REINFORCE algorithm. The derivation and the pseudocode are given in this PDF file https://github.com/architsakhadeo/RL-with-Robots/blob/main/pdf/pseudocodePPO.pdf
 - We also implement a PID controller for the Dynamixel Servo motor.
-
-## Installation instructions:
-
-Please follow the installation instructions for SenseAct as specified in https://github.com/kindredresearch/SenseAct.
 
 
 
